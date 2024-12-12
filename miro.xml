@@ -2,29 +2,10 @@
 <rss version="2.0">
 
 <channel>
-  <title>W3Schools Home Page2</title>
-  <link>https://www.w3schools.com</link>
-  <description>Free web building tutorials</description>
+  <title>Miro Group</title>
   <item>
-    <title>RSS Tutorial</title>
-    <link>https://www.w3schools.com/xml/xml_rss.asp</link>
-    <description>New RSS tutorial on W3Schools</description>
-  </item>
-  <item>
-    <title>XML Tutorial</title>
-    <link>https://www.w3schools.com/xml</link>
-    <description>New XML tutorial on W3Schools</description>
-  </item>
-    <item>
-    <title>XML Tutorial</title>
-    <link>https://www.w3schools.com/xml</link>
-    <description>New XML tutorial on W3Schools</description>
-  </item>
-    </item>
-    <item>
-    <title>XML Tutorfffafaial</title>
-    <link>https://www.w3schools.com/xml</link>
-    <description>New XML tutorial on W3Schools</description>
+    <title>Article 1</title>
+    <link>https://pubs.acs.org/doi/10.1021/acs.inorgchem.4c04554</link>
   </item>
 </channel>
 
